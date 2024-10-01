@@ -1,0 +1,14 @@
+td {
+    border : solid 1px black; 
+ }
+ .gambar {
+     text-align: center;
+ }
+ .introduce {
+    padding-left: 50px;
+    color: rgb(49, 49, 177);
+ }
+ .nama, .pembuka, .major {
+    margin-bottom: 5px;
+    margin-top: 5px;
+ }
